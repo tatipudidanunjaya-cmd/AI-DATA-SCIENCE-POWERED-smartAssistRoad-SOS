@@ -217,14 +217,10 @@ Public HTTPS Demo URL
 
 After uploading the project to GitHub, your final link will look like:
 
-[GitHub Project Repository](https://github.com/YOUR-USERNAME/AI-DATA-SCIENCE-POWERED-SmartAssistRoad-SOS?utm_source=chatgpt.com)
+[GitHub Project Repository](https://github.com/tatipudidanunjaya-cmd/AI-DATA-SCIENCE-POWERED-smartAssistRoad-SOS)
 
-Replace `YOUR-USERNAME` with your GitHub username.
 
-For example, if your username were `danunjaya123`, it would be:
-
-```text
-https://github.com/danunjaya123/AI-DATA-SCIENCE-POWERED-SmartAssistRoad-SOS
+```texthttps://github.com/tatipudidanunjaya-cmd/AI-DATA-SCIENCE-POWERED-smartAssistRoad-SOS
 ```
 
 That example is only a format; it is **not an existing repository** unless you create it.
@@ -334,13 +330,7 @@ python smartassist_road_sos.py
 
 ---
 
-# 13. 💼 Resume Project Entry
-
-:::writing{variant="document" id="58321" title="Resume Project Description"}
-### AI & Data Science Powered SmartAssist Road SOS
-**Technologies:** Python, Tkinter, NLP, Data Science, Haversine Distance, Google Maps
-
-Developed a Python-based roadside assistance application that classifies vehicle breakdown descriptions into tyre puncture, fuel emergency, mechanical breakdown, and towing categories. Implemented risk-level and confidence estimation, automated safety recommendations, Google Maps service navigation, and a local responder-ranking system using distance, ratings, AI Match Score, and estimated ETA.
+ breakdown, and towing categories. Implemented risk-level and confidence estimation, automated safety recommendations, Google Maps service navigation, and a local responder-ranking system using distance, ratings, AI Match Score, and estimated ETA.
 :::
 
 ---
