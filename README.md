@@ -177,7 +177,7 @@ The project also displays a telemetry section containing latitude, longitude, in
 
 ### Current status
 
-Your uploaded project **does not contain a deployed public web demo URL**.
+Your uploaded project **does not contain a deployed public web demo URL https://github.com/tatipudidanunjaya-cmd/AI-DATA-SCIENCE-POWERED-smartAssistRoad-SOS.git**.
 
 It is a **Tkinter desktop application**, launched with:
 
